@@ -1,0 +1,10 @@
+graphviz
+tensorflow
+keras
+ipywidgets
+pamela
+pytz
+networkx
+cycler
+pyparsing
+alembic
